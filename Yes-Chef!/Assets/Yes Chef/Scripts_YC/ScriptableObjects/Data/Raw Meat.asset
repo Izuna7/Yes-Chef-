@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69befa3439f2bb344aa3bf90391c2225, type: 3}
+  m_Name: Raw Meat
+  m_EditorClassIdentifier: Assembly-CSharp::IngredientData
+  ingredientName: Raw Meat
+  placeWhere: 1
+  icon: {fileID: 7781682652552636025, guid: 6b35eb4b024c36b4e89786c1a066c111, type: 3}
+  worldPrefab: {fileID: 5450587061074408543, guid: 87c91d7db02a9ef4fbd57ccc392fa6d0, type: 3}
+  ingredientScore: 0

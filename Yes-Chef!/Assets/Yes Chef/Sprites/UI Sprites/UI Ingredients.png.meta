@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: 35c071b6bacc1574ca42ab1d9f429f37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5338060130053291863
+    second: UI Ingredients_0
+  - first:
+      213: 99226283635581222
+    second: UI Ingredients_1
+  - first:
+      213: -2475780589397672851
+    second: UI Ingredients_2
+  - first:
+      213: 5598608953188353365
+    second: UI Ingredients_3
+  - first:
+      213: -219272113679930363
+    second: UI Ingredients_4
+  - first:
+      213: 8857251569733958400
+    second: UI Ingredients_5
+  - first:
+      213: -7043144084103370860
+    second: UI Ingredients_6
+  - first:
+      213: -4524839461622777677
+    second: UI Ingredients_7
+  - first:
+      213: -7566829225384334626
+    second: UI Ingredients_8
+  - first:
+      213: -2845128444837210891
+    second: UI Ingredients_9
+  - first:
+      213: -7458044203627778819
+    second: UI Ingredients_10
+  - first:
+      213: 4508901688881684574
+    second: UI Ingredients_11
+  - first:
+      213: 8511068640144713523
+    second: UI Ingredients_12
+  - first:
+      213: 7415571056586585652
+    second: UI Ingredients_13
+  - first:
+      213: -2578064255819697587
+    second: UI Ingredients_14
+  - first:
+      213: -8105402070495350178
+    second: UI Ingredients_15
+  - first:
+      213: -7536586189762923959
+    second: UI Ingredients_16
+  - first:
+      213: -4062062980149942197
+    second: UI Ingredients_17
+  - first:
+      213: 9040100216181487227
+    second: UI Ingredients_18
+  - first:
+      213: -8766292903238542888
+    second: UI Ingredients_19
+  - first:
+      213: -8325411084326569850
+    second: UI Ingredients_20
+  - first:
+      213: 5036846679335079693
+    second: UI Ingredients_21
+  - first:
+      213: 1332038831458097239
+    second: UI Ingredients_22
+  - first:
+      213: 6357370159160183332
+    second: UI Ingredients_23
+  - first:
+      213: -1201860155373041138
+    second: UI Ingredients_24
+  - first:
+      213: -2030634542545385337
+    second: UI Ingredients_25
+  - first:
+      213: -49288862030844549
+    second: UI Ingredients_26
+  - first:
+      213: 7166472964608951720
+    second: UI Ingredients_27
+  - first:
+      213: 9159594923230502995
+    second: UI Ingredients_28
+  - first:
+      213: 2454367492968671731
+    second: UI Ingredients_29
+  - first:
+      213: 6073851552263698452
+    second: UI Ingredients_30
+  - first:
+      213: -523164727230947184
+    second: UI Ingredients_31
+  - first:
+      213: -861355422270874126
+    second: UI Ingredients_32
+  - first:
+      213: 9170846308777165708
+    second: UI Ingredients_33
+  - first:
+      213: -338357334268617701
+    second: UI Ingredients_34
+  - first:
+      213: 5802268641277918642
+    second: UI Ingredients_35
+  - first:
+      213: -6829546106145224975
+    second: UI Ingredients_36
+  - first:
+      213: -183103064669323101
+    second: UI Ingredients_37
+  - first:
+      213: -5080488275654551703
+    second: UI Ingredients_38
+  - first:
+      213: -2575240475424648033
+    second: UI Ingredients_39
+  - first:
+      213: -6764255192601679771
+    second: UI Ingredients_40
+  - first:
+      213: 7375958179773829632
+    second: UI Ingredients_41
+  - first:
+      213: 2473641936645640834
+    second: UI Ingredients_42
+  - first:
+      213: -2018928750833592380
+    second: UI Ingredients_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI Ingredients_13
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 803
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436f28a269669e660800000000000000
+      internalID: 7415571056586585652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1513
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52b86ad2c3d38f80800000000000000
+      internalID: -8105402070495350178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 248
+        width: 1525
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942f01c7acaa86790800000000000000
+      internalID: -7536586189762923959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 334
+        width: 172
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e5e4cd37a0a7c0800000000000000
+      internalID: -4062062980149942197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 295
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6887d9d8ab2367c80800000000000000
+      internalID: -8325411084326569850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 334
+        width: 186
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f8fd55e5976e540800000000000000
+      internalID: 5036846679335079693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 328
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a4b417e82225fe0800000000000000
+      internalID: -1201860155373041138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_26
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 373
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7da4478a04e05ff0800000000000000
+      internalID: -49288862030844549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_27
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 344
+        width: 133
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a505f3113d647360800000000000000
+      internalID: 7166472964608951720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_32
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 344
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd103e9ec9db04f0800000000000000
+      internalID: -861355422270874126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_36
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 271
+        width: 202
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 56, y: 75, z: 61, w: 70}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6cf0e30049831a0800000000000000
+      internalID: -6829546106145224975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_37
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 504
+        width: 129
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a089199bbc757df0800000000000000
+      internalID: -183103064669323101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 24
+        width: 886
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282d5474c34245220800000000000000
+      internalID: 2473641936645640834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Ingredients_43
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 61
+        width: 316
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c79db37ff25bf3e0800000000000000
+      internalID: -2018928750833592380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 342714a133335da429b0ef8301d6a7b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI Ingredients_0: 5338060130053291863
+      UI Ingredients_1: 99226283635581222
+      UI Ingredients_10: -7458044203627778819
+      UI Ingredients_11: 4508901688881684574
+      UI Ingredients_12: 8511068640144713523
+      UI Ingredients_13: 7415571056586585652
+      UI Ingredients_14: -2578064255819697587
+      UI Ingredients_15: -8105402070495350178
+      UI Ingredients_16: -7536586189762923959
+      UI Ingredients_17: -4062062980149942197
+      UI Ingredients_18: 9040100216181487227
+      UI Ingredients_19: -8766292903238542888
+      UI Ingredients_2: -2475780589397672851
+      UI Ingredients_20: -8325411084326569850
+      UI Ingredients_21: 5036846679335079693
+      UI Ingredients_22: 1332038831458097239
+      UI Ingredients_23: 6357370159160183332
+      UI Ingredients_24: -1201860155373041138
+      UI Ingredients_25: -2030634542545385337
+      UI Ingredients_26: -49288862030844549
+      UI Ingredients_27: 7166472964608951720
+      UI Ingredients_28: 9159594923230502995
+      UI Ingredients_29: 2454367492968671731
+      UI Ingredients_3: 5598608953188353365
+      UI Ingredients_30: 6073851552263698452
+      UI Ingredients_31: -523164727230947184
+      UI Ingredients_32: -861355422270874126
+      UI Ingredients_33: 9170846308777165708
+      UI Ingredients_34: -338357334268617701
+      UI Ingredients_35: 5802268641277918642
+      UI Ingredients_36: -6829546106145224975
+      UI Ingredients_37: -183103064669323101
+      UI Ingredients_38: -5080488275654551703
+      UI Ingredients_39: -2575240475424648033
+      UI Ingredients_4: -219272113679930363
+      UI Ingredients_40: -6764255192601679771
+      UI Ingredients_41: 7375958179773829632
+      UI Ingredients_42: 2473641936645640834
+      UI Ingredients_43: -2018928750833592380
+      UI Ingredients_5: 8857251569733958400
+      UI Ingredients_6: -7043144084103370860
+      UI Ingredients_7: -4524839461622777677
+      UI Ingredients_8: -7566829225384334626
+      UI Ingredients_9: -2845128444837210891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
