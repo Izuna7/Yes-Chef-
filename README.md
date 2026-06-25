@@ -30,14 +30,23 @@ Interactables-
   •Trash Can (Shows trash UI-lets you choose one of the 2 ingredients to throw in trash)
   •Counter (Shows required 3 ingredients (Received, Not Received), Post requirement process - shows a score)
 
-Ingredients-
+Ingredients (World Prefabs)-
   •Carrot- Ingredient Process(Script)
   •Raw Meat-Ingredient Process(Script)
-  •
-  •
-  •
+  •Cheese - No script required
+  •Chopped Carrot - Chopped carrot script (assign itself to processed list and prefabs list) - seperate script to kill dependency
+  •Cooked meat - cooked meat script (assign itself to processed list and prefabs list) - seperate script to kill dependency
 
 Game Manager-
-  •
-  •
-  •
+  • Stores highscore
+  • Timer
+  • Main UIs
+
+The whole project is scriptable object driven-
+   •IngredientData
+     1- enum BaseIngredientType { ForTable,ForStove,DirectServe,ReadyToServe}
+       Purpose-In future if more ingredients added, instead of creating new types/names , we assign it place where it should be proccessed (eg-table,stove)
+     2- World prefab - contains the prefab of that ingredient
+     3-Score - Score the ingredient should execute after completion
+
+  This method helps us to add more ingredients without any dependency issues.
